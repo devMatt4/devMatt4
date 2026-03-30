@@ -58,7 +58,7 @@ Attualmente sto sviluppando il mio brand **Mattia Web Studio**, con cui realizzo
 ## 🌍 Dove trovarmi
 
 [![Website](https://img.shields.io/badge/Website-mattiawebstudio.com-111?style=for-the-badge&logo=googlechrome)](https://mattiawebstudio.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Mattia%20Web%20Studio-111?style=for-the-badge&logo=instagram)](https://instagram.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-Mattia%20Web%20Studio-111?style=for-the-badge&logo=instagram)]([https://instagram.com/](https://www.instagram.com/mattiawebstudio/?__pwa=1))
 [![GitHub](https://img.shields.io/badge/GitHub-devMatt4-111?style=for-the-badge&logo=github)](https://github.com/devMatt4)
 [![Email](https://img.shields.io/badge/Email-info%40mattiawebstudio.com-111?style=for-the-badge&logo=gmail)](mailto:info@mattiawebstudio.com)
 
